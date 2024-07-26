@@ -9,5 +9,5 @@
       - Mail: Zeke.Weng@mail.utoronto.ca \
       - Ig: @zekeweng
 - ⚡ 2024-2025 Course: \
-      - Software Design, Intro to Theory of Computation, Computer Organization, Probability and Statistics 1, MVC with Proofs \
-      - Software Tools and System Programming, DSA, Intro to Machine Learning, Probability and Statistics 2, MVC with Proofs
+      - (F) Software Design, Intro to Theory of Computation, Computer Organization, Probability and Statistics 1, MVC with Proofs \
+      - (S) Software Tools and System Programming, DSA, Intro to Machine Learning, Probability and Statistics 2, MVC with Proofs
