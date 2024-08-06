@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on boulder2Vec, UTSPAN Website, UTSPAN Notebooks, 3D Prints, Tsukahara Lab
 - 👯 I’m looking to collaborate on: \
-      - Spotify to MP3 Converter \
+      - A CLI productivity tool
       - a Game Theory-driven website/app \
       - an Info Theory-driven website/app, \
       - Big Data Bowl 2025 \
