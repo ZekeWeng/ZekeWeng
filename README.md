@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on boulder2Vec, UTSPAN Notebooks, 3D Prints
+- 🔭 I’m currently working on UTSPAN Notebooks, 3D Prints, learning Rust
 - 📫 How to reach me: \
       - Mail: Zeke.Weng@mail.utoronto.ca \
       - Ig: @zekeweng
