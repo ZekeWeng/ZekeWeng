@@ -1,4 +1,2 @@
-- 🔭 I’m currently working on UTSPAN Notebooks, 3D Prints, learning Rust
-- 📫 How to reach me: \
-      - Mail: Zeke.Weng@mail.utoronto.ca \
-      - Ig: @zekeweng
+- 🔭 Computer Sceince + Statistics @ University of Toronto
+- 📫 How to reach me: Zeke.Weng@mail.utoronto.ca \
